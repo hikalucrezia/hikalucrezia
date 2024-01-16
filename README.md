@@ -1,16 +1,23 @@
-### Hi there 👋
+## 入社先 (2024/10/01 入社予定)
+フューチャーアーキテクト株式会社に、ITコンサルタントとして入社させていただくことが決まりました。
 
-<!--
-**hikalucrezia/hikalucrezia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## インターンシップ略歴
+### PKSHA Technologies (1か月程度)
+SWEチームで主にAWSを学ばせていただきました。
+terraformを用いたコードとしてインフラを記述する課題を与えていただき、ローカルで開発しているアプリケーションをAWSを用いて公開するまでの流れを学習いたしました。
+また、localstackというAWSのAPIをモックするアプリが実用に耐えうるかという検証にも協力させていただきました。私の結論は、耐えられないかつ必要ないです。
 
-Here are some ideas to get you started:
+### プロトスター (8か月程度)
+StartupListというサービスでRailsとReact + TypeScriptを用いて開発に従事いたしました。
+フロントエンドでは、用意されたデザインから機能を理解またはすり合わせをして実装しました。
+バックエンドでは、見過ごされていたモデルの関連性の改善や、フロントエンドに合わせるようにAPIの修正をしたり、不十分なロジックの改善などを行いました。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lograph (10か月程度)
+業務で使用する外部・内部アプリを一つのポータルから行うことを目標としたアプリの作成に、LaravelとReact + TypeScriptを用いて開発に従事いたしました。
+主にフロントエンドとして従事し、ほぼITエンジニアほぼ未経験の状態から大幅にスキルの獲得をさせていただきました。
+
+## 自己開発プロダクト
+### EC サイト (継続中)
+Amazonや楽天のようなウェブサービスの開発を行っています。顧客になるのはビジネスと消費者です。
+使用技術はRailsとReact + TypeScriptです。
+スキーマやデザイン、コードなどを考えて、それを実装しています。
